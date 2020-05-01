@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\bin\Debug\DeleteMe.exe.config
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\bin\Debug\DeleteMe.exe
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\bin\Debug\DeleteMe.pdb
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\obj\Debug\DeleteMe.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\obj\Debug\DeleteMe.Form1.resources
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\obj\Debug\DeleteMe.Properties.Resources.resources
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\obj\Debug\DeleteMe.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\obj\Debug\DeleteMe.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\obj\Debug\DeleteMe.exe
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\obj\Debug\DeleteMe.pdb
+C:\Users\pc\Desktop\DeleteMe\DeleteMe\obj\Debug\DeleteMe.Details.resources
